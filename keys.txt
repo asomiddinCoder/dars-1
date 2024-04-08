@@ -1,0 +1,21 @@
+ctrl + = zoom + Kattalashtirish
+
+ctrl - = zoom - Kichiklashtirish
+
+ctrl + s = соx 
+
+Win + space or Alt + shift = Tilni ozgartirish
+
+Ctrl+ c = cko
+
+ctrl + v=
+
+alt + tab = oyinlarni otkazish 
+
+ctrl + a= 
+
+win + l = block
+
+alt + f4 =yopish 
+
+ctrl + z = orqaga qaytarish
